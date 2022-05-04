@@ -46,3 +46,9 @@ genrst/
 # MacOS desktop metadata files
 ######################
 .DS_Store
+
+# Passwords and keys
+######################
+credentials.py
+
+
